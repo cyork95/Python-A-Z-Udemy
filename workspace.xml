@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Initial Commit" />
+    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Update Files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
         <option value="Cody York &lt;coyoyorko@protonmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.idea" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -38,18 +38,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DYUTanqVpIpWEBoq48vm5N8tXX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/cy_su/DataspellProjects/CS_654_Data_Mining",
+    "last_opened_file_path": "C:/Users/cy_su/DataspellProjects/DSCI_602_Statistical_Methods_for_Data_Science",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyDependenciesConfigurable"
   }
 }]]></component>
@@ -82,12 +85,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add variables lesson" />
     <MESSAGE value="Add Random Files" />
     <MESSAGE value="Update README.md" />
-    <MESSAGE value="Update Files" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Update Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Files" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
