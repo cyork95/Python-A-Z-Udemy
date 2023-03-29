@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Initial Commit" />
+    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Update README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/.idea/CS617_Introduction_to_Programming_and_Python.iml" beforeDir="false" afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/.idea/CS617_Introduction_to_Programming_and_Python.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +28,7 @@
         <option value="Cody York &lt;coyoyorko@protonmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/CS654_Data_Mining" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.idea" />
     <option name="RESET_MODE" value="HARD" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -48,7 +53,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/cy_su/DataspellProjects/CS654_Data_Mining"
+    "last_opened_file_path": "C:/Users/cy_su/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyDependenciesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -82,7 +88,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add variables lesson" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Add Random Files" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

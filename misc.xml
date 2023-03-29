@@ -4,4 +4,24 @@
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
+  <component name="RMarkdownSettings">
+    <option name="renderProfiles">
+      <map>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week 1/DSCI_610_Getting_Started.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week 1" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week 1/DSCI_610_HW_1_Cody_York.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week 1" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
