@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Update Files" />
+    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Update Files">
+      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_13/Chemotherapy in ovarian cancer patients.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_13/Exploring-time-to-event-data.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_13/Modeling-time-to-event-data.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_13/dsci_610_hw_8_analysis_of_time_to_event_Cody_York.rmd" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_13/oc.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_1_Hit_the_Ground_Running/P2-Mispriced-Diamonds.csv" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_1_Hit_the_Ground_Running/intro_excercise.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/P2-Section2-Homework-The-Challenge.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/logical_operators_and_operators.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/types_of_datatypes.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/using_variables.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/while_loop.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_3_Fundamentlals_of_R/P2-Section3-Homework-The-Challenge.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_3_Fundamentlals_of_R/Section3-Homework-Data.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_3_Fundamentlals_of_R/Section3-Homework-FillInTheBlanks.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_4_Matrices/P2-Section4-Homework-The-Challenge.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_4_Matrices/P2-Section4-The-Challenge.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_4_Matrices/Section4-Homework-Data.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_4_Matrices/Section4-Homework-FillInTheBlanks.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_4_Matrices/s4-BasketballData.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_5_Data_Frames/CountryRegionVectors.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_5_Data_Frames/P2-Demographic-Data.csv" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_5_Data_Frames/P2-Section5-Homework-Data.csv" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_5_Data_Frames/P2-Section5-Homework-The-Challenge.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_5_Data_Frames/P2-Section5-The-Challenge.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_5_Data_Frames/Section5-Homework-FillInTheBlanks.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_5_Data_Frames/Section5-Homework-Vectors.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_6_Advanced_Visualization/P2-Movie-Ratings.csv" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_6_Advanced_Visualization/P2-Section6-Grammar-Of-Graphics.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_6_Advanced_Visualization/P2-Section6-Homework-The-Challenge.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_6_Advanced_Visualization/P2-Section6-The-Challenge.pdf" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_6_Advanced_Visualization/Section6-Homework-Data.csv" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_6_Advanced_Visualization/Section6-Homework-FillInTheBlanks.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +55,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="R Script" />
+        <option value="RMarkdown.notebook" />
       </list>
     </option>
   </component>
@@ -23,7 +66,7 @@
         <option value="Cody York &lt;coyoyorko@protonmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences" />
     <option name="RESET_MODE" value="HARD" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -52,8 +95,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/cy_su/DataspellProjects/DSCI_602_Statistical_Methods_for_Data_Science",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyDependenciesConfigurable"
+    "last_opened_file_path": "C:/Users/cy_su/DataspellProjects/R_Programming_A-Z",
+    "settings.editor.selected.configurable": "org.jetbrains.r.configuration.RSettingsProjectConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
