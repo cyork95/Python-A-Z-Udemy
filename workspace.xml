@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Update Files">
-      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_13/exceptions.ipynb" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_13/numpy_operations.ipynb" afterDir="false" />
+    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Add Week 13 Exercises">
+      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_13/dsci_610_hw_8_analysis_of_time_to_event_Cody_York.nb.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_13/dsci_610_hw_8_analysis_of_time_to_event_Cody_York.rmd" beforeDir="false" afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_13/dsci_610_hw_8_analysis_of_time_to_event_Cody_York.rmd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences" />
     <option name="RESET_MODE" value="HARD" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -91,7 +91,8 @@
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Update Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Files" />
+    <MESSAGE value="Add Week 13 Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Week 13 Exercises" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
