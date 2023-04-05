@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Finish Week 13 Lab">
-      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/programming_assignment_5/PA_5_Cody_York.ipynb" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/programming_assignment_5/students.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Finish Programming Assignment 5">
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/S2_HW1_Law_of_Large_Numbers.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/for_loop.R" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/if_statement.R" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +18,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="R Script" />
         <option value="RMarkdown.notebook" />
         <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="R Script" />
       </list>
     </option>
   </component>
@@ -32,7 +32,7 @@
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/R_Programming_A-Z" />
     <option name="RESET_MODE" value="HARD" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -97,7 +97,8 @@
     <MESSAGE value="Add Week 13 Exercises" />
     <MESSAGE value="Add Model time to event data" />
     <MESSAGE value="Finish Week 13 Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Week 13 Lab" />
+    <MESSAGE value="Finish Programming Assignment 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Programming Assignment 5" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
