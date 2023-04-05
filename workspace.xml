@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Add Model time to event data">
-      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_13/Week13_Lab/Week_13_Lab.ipynb" afterDir="false" />
+    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Finish Week 13 Lab">
+      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/programming_assignment_5/PA_5_Cody_York.ipynb" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/programming_assignment_5/students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,19 +47,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cy_su/DataspellProjects/R_Programming_A-Z&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.r.configuration.RSettingsProjectConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/cy_su/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/programming_assignment_5",
+    "settings.editor.selected.configurable": "org.jetbrains.r.configuration.RSettingsProjectConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cy_su\DataspellProjects\CS_617_Introduction_to_Programming_and_Python\Week_14\programming_assignment_5" />
       <recent name="C:\Users\cy_su\DataspellProjects\Python-A-Z-Udemy\core_programming_principles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -93,7 +96,8 @@
     <MESSAGE value="Update Files" />
     <MESSAGE value="Add Week 13 Exercises" />
     <MESSAGE value="Add Model time to event data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Model time to event data" />
+    <MESSAGE value="Finish Week 13 Lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Week 13 Lab" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

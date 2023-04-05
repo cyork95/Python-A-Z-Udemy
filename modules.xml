@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Automating_My_Life/.idea/Automating_My_Life.iml" filepath="$USER_HOME$/DataspellProjects/Automating_My_Life/.idea/Automating_My_Life.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/.idea/CS617_Introduction_to_Programming_and_Python.iml" filepath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/.idea/CS617_Introduction_to_Programming_and_Python.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/CS654_Data_Mining/.idea/CS654_Data_Mining.iml" filepath="$USER_HOME$/DataspellProjects/CS654_Data_Mining/.idea/CS654_Data_Mining.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/CS_654_Data_Mining/.idea/CS_654_Data_Mining.iml" filepath="$USER_HOME$/DataspellProjects/CS_654_Data_Mining/.idea/CS_654_Data_Mining.iml" />
