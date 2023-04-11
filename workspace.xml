@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Finish Programming Assignment 5">
-      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/S2_HW1_Law_of_Large_Numbers.R" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/for_loop.R" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/R_Programming_A-Z/Section_2_Core_Porgramming_Principles/if_statement.R" afterDir="false" />
+    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Finish programming fundamentals">
+      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/Week13_Lab/Week14_Lab_Cody_York.ipynb" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/pandas_dataframes.ipynb" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/pandas_series.ipynb" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python/Week_14/regular_expressions.ipynb" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/KhronaBotEnhanced/.idea/KhronaBotEnhanced.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/DataspellProjects/KhronaBotEnhanced/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +24,8 @@
       <list>
         <option value="RMarkdown.notebook" />
         <option value="Python Script" />
-        <option value="Jupyter Notebook" />
         <option value="R Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -32,7 +36,7 @@
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/R_Programming_A-Z" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/CS_617_Introduction_to_Programming_and_Python" />
     <option name="RESET_MODE" value="HARD" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -98,7 +102,8 @@
     <MESSAGE value="Add Model time to event data" />
     <MESSAGE value="Finish Week 13 Lab" />
     <MESSAGE value="Finish Programming Assignment 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Programming Assignment 5" />
+    <MESSAGE value="Finish programming fundamentals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish programming fundamentals" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
