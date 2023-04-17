@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Finish Week 14 assignments and lectures">
-      <change afterPath="$USER_HOME$/DataspellProjects/CS_654_Data_Mining/Week_15/cs654_association_demo.html" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/CS_654_Data_Mining/Week_15/cs654_association_mining.pdf" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/CS_654_Data_Mining/Week_15/example1_data.txt" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/.~lock.HW9 Longitudinal Data Analysis.docx#" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/ContentServer.pdf" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/HW9 Longitudinal Data Analysis.docx" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/HW9_Longitudinal_Data_Analysis_Cody_York.nb.html" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/HW9_Longitudinal_Data_Analysis_Cody_York.rmd" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/Rand_Coeff_Model_Specification.Rmd" afterDir="false" />
-      <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/teen_alcohol.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/.idea/misc.xml" beforeDir="false" afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/.idea/rSettings.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Finish Week 14 assignments and lectures" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
