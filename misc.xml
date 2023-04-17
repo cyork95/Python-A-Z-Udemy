@@ -29,6 +29,21 @@
             </RMarkdownRenderProfile>
           </value>
         </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/HW9_Longitudinal_Data_Analysis_Cody_York.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/HW9_Longitudinal_Data_Analysis_Cody_York.nb.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14/Rand_Coeff_Model_Specification.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_14" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
