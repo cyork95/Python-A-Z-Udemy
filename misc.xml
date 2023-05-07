@@ -7,6 +7,54 @@
   <component name="RMarkdownSettings">
     <option name="renderProfiles">
       <map>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_3.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_3.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_4.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_4.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_5.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_5.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_6.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_6.html" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_7.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="lastOutput" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project/DSCI610_Final_7.pdf" />
+              <option name="outputDirectoryUrl" value="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Final_Project" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
         <entry key="file://$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week 1/DSCI_610_Getting_Started.rmd">
           <value>
             <RMarkdownRenderProfile>
