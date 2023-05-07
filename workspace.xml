@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9c77383-edf2-4525-87f4-b39f89cfd56b" name="Changes" comment="Finish Week 15 assignments and lectures">
+      <changelist_data name="Cody York" email="coyoyorko@protonmail.com" />
       <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_15/DSCI 610 HW10- Predictive analytics for health data.docx" afterDir="false" />
       <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_15/HW_10_Predictive_Analytics_Cody_York.nb.html" afterDir="false" />
       <change afterPath="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences/Week_15/HW_10_Predictive_Analytics_Cody_York.rmd" afterDir="false" />
@@ -23,8 +24,8 @@
       <list>
         <option value="R Script" />
         <option value="RMarkdown.notebook" />
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -35,7 +36,7 @@
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/DSCI_610_Data_Analytics_for_Health_Sciences" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/DataspellProjects/Automate_the_Boring_Stuff_with_Python" />
     <option name="RESET_MODE" value="HARD" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -109,7 +110,9 @@
     <MESSAGE value="Finish Week 14 assignments and lectures" />
     <MESSAGE value="Finish Week 15 assignments and lectures" />
     <option name="LAST_COMMIT_MESSAGE" value="Finish Week 15 assignments and lectures" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
